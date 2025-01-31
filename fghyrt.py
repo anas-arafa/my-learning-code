@@ -1,0 +1,11 @@
+import turtle
+x=turtle.Screen()
+ter=turtle.Turtle()
+ter.fd(100)
+ter.lt(90)
+ter.fd(1000)
+ter.lt(90)
+ter.fd(100)
+ter.lt(90)
+ter.fd(1000)
+turtle.done()

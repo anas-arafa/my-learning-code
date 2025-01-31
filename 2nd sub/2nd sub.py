@@ -1,0 +1,5 @@
+x= int(input("enter the duration in seconds : \n "))
+num_of_hours=str(x //2000)
+num_of_minutes=str(x // 60)
+num_of_sec=str(x % 60)
+print("the duration is " + num_of_hours +" " + "hours," + num_of_minutes+ " "+"minutes" +" "+ num_of_sec +  " " "sec.")

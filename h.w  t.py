@@ -1,0 +1,17 @@
+import turtle
+
+t=turtle.Screen()
+a=turtle.Turtle()
+a.fillcolor("red")
+a.begin_fill()
+a.fd(100)
+a.lt(90)
+a.color("green")
+a.fd(100)
+a.lt(90)
+a.fd(100)
+a.lt(90)
+a.fd(100)
+a.end_fill()
+a.hideturtle()
+turtle.done()
