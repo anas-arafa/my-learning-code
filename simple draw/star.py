@@ -1,6 +1,6 @@
 import turtle
 
-t=turtle.Screeni()
+t=turtle.Screen()
 a=turtle.Turtle()
 a.fillcolor("red")
 a.begin_fill()
